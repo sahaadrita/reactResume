@@ -2,7 +2,7 @@
 function About(){
     return(
         <>
-        
+        <div class="container-fluid p-0">
         
         <section class="resume-section" id="about">
         <div class="resume-section-content">
@@ -23,6 +23,7 @@ function About(){
             </div>
         </div>
     </section>
+    </div>
     
     <hr class="m-0" />
         </>
