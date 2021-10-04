@@ -1,11 +1,12 @@
 
-import Awards from "./containers/Awards";
-import About from "./containers/About";
+
+import Routes from "./Routes";
 function App() 
 {
   return(
     
-    <About/>
+    
+  <Routes />
 
     
   )

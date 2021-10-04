@@ -1,6 +1,8 @@
+
 function About(){
     return(
         <>
+        
         
         <section class="resume-section" id="about">
         <div class="resume-section-content">
@@ -21,6 +23,7 @@ function About(){
             </div>
         </div>
     </section>
+    
     <hr class="m-0" />
         </>
     )
